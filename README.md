@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in JavaScript when interacting with the DOM. The bug.html file contains a typo in the function call to access an HTML element, which results in the script failing silently, and the intended text replacement not occurring. The bugSolution.html provides the corrected code.
